@@ -1,0 +1,202 @@
+[
+  {
+    "hotel_id": "HT001",
+    "name": "Beach View Resort",
+    "city": "Goa",
+    "location_type": "Near Beach",
+    "price_per_night": 4000,
+    "rating": 4.5,
+    "rooms_available": 5,
+    "available": true
+  },
+  {
+    "hotel_id": "HT002",
+    "name": "Sea Breeze Hotel",
+    "city": "Goa",
+    "location_type": "Near Beach",
+    "price_per_night": 3500,
+    "rating": 4.3,
+    "rooms_available": 3,
+    "available": true
+  },
+  {
+    "hotel_id": "HT003",
+    "name": "Goa Budget Inn",
+    "city": "Goa",
+    "location_type": "City Center",
+    "price_per_night": 2500,
+    "rating": 3.9,
+    "rooms_available": 8,
+    "available": true
+  },
+  {
+    "hotel_id": "HT004",
+    "name": "Ocean Stay Resort",
+    "city": "Goa",
+    "location_type": "Near Beach",
+    "price_per_night": 3000,
+    "rating": 4.1,
+    "rooms_available": 0,
+    "available": false
+  },
+  {
+    "hotel_id": "HT005",
+    "name": "Palm Grove Hotel",
+    "city": "Goa",
+    "location_type": "Near Beach",
+    "price_per_night": 4500,
+    "rating": 4.6,
+    "rooms_available": 2,
+    "available": true
+  },
+  {
+    "hotel_id": "HT006",
+    "name": "Panjim Comfort",
+    "city": "Goa",
+    "location_type": "City Center",
+    "price_per_night": 2800,
+    "rating": 4.0,
+    "rooms_available": 6,
+    "available": true
+  },
+  {
+    "hotel_id": "HT007",
+    "name": "Sunset Bay Hotel",
+    "city": "Goa",
+    "location_type": "Near Beach",
+    "price_per_night": 5000,
+    "rating": 4.7,
+    "rooms_available": 1,
+    "available": true
+  },
+  {
+    "hotel_id": "HT008",
+    "name": "Goa Central Lodge",
+    "city": "Goa",
+    "location_type": "City Center",
+    "price_per_night": 2200,
+    "rating": 3.7,
+    "rooms_available": 10,
+    "available": true
+  },
+  {
+    "hotel_id": "HT009",
+    "name": "Coastal Paradise",
+    "city": "Goa",
+    "location_type": "Near Beach",
+    "price_per_night": 3800,
+    "rating": 4.4,
+    "rooms_available": 4,
+    "available": true
+  },
+  {
+    "hotel_id": "HT010",
+    "name": "Blue Lagoon Resort",
+    "city": "Goa",
+    "location_type": "Near Beach",
+    "price_per_night": 4200,
+    "rating": 4.5,
+    "rooms_available": 0,
+    "available": false
+  },
+  {
+    "hotel_id": "HT011",
+    "name": "Mumbai City Hotel",
+    "city": "Mumbai",
+    "location_type": "City Center",
+    "price_per_night": 4500,
+    "rating": 4.2,
+    "rooms_available": 5,
+    "available": true
+  },
+  {
+    "hotel_id": "HT012",
+    "name": "Marine View Mumbai",
+    "city": "Mumbai",
+    "location_type": "Near Beach",
+    "price_per_night": 5500,
+    "rating": 4.6,
+    "rooms_available": 2,
+    "available": true
+  },
+  {
+    "hotel_id": "HT013",
+    "name": "Delhi Grand Stay",
+    "city": "Delhi",
+    "location_type": "City Center",
+    "price_per_night": 4200,
+    "rating": 4.3,
+    "rooms_available": 7,
+    "available": true
+  },
+  {
+    "hotel_id": "HT014",
+    "name": "Delhi Budget Rooms",
+    "city": "Delhi",
+    "location_type": "City Center",
+    "price_per_night": 2800,
+    "rating": 3.8,
+    "rooms_available": 9,
+    "available": true
+  },
+  {
+    "hotel_id": "HT015",
+    "name": "Chennai Marina Hotel",
+    "city": "Chennai",
+    "location_type": "Near Beach",
+    "price_per_night": 3200,
+    "rating": 4.1,
+    "rooms_available": 4,
+    "available": true
+  },
+  {
+    "hotel_id": "HT016",
+    "name": "Hyderabad Central Hotel",
+    "city": "Hyderabad",
+    "location_type": "City Center",
+    "price_per_night": 3000,
+    "rating": 4.0,
+    "rooms_available": 6,
+    "available": true
+  },
+  {
+    "hotel_id": "HT017",
+    "name": "Goa Palm Residency",
+    "city": "Goa",
+    "location_type": "City Center",
+    "price_per_night": 2700,
+    "rating": 4.0,
+    "rooms_available": 5,
+    "available": true
+  },
+  {
+    "hotel_id": "HT018",
+    "name": "Tropical Sands Resort",
+    "city": "Goa",
+    "location_type": "Near Beach",
+    "price_per_night": 4700,
+    "rating": 4.6,
+    "rooms_available": 3,
+    "available": true
+  },
+  {
+    "hotel_id": "HT019",
+    "name": "Goa Heritage Stay",
+    "city": "Goa",
+    "location_type": "City Center",
+    "price_per_night": 3100,
+    "rating": 4.2,
+    "rooms_available": 4,
+    "available": true
+  },
+  {
+    "hotel_id": "HT020",
+    "name": "Coral Sands Hotel",
+    "city": "Goa",
+    "location_type": "Near Beach",
+    "price_per_night": 3600,
+    "rating": 4.3,
+    "rooms_available": 0,
+    "available": false
+  }
+]

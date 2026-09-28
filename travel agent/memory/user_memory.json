@@ -1,0 +1,10 @@
+{
+  "user_preferences": {
+    "preferred_flight_time": "morning",
+    "preferred_hotel_location": "Near Beach",
+    "hotel_type": "budget",
+    "preferred_max_hotel_price_per_night": 4500
+  },
+  "past_trips": [],
+  "current_trip": null
+}
