@@ -12,3 +12,13 @@ __pycache__/
 .venv/
 venv/
 
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# macOS and Python-generated files
+.DS_Store
+__pycache__/
+*.py[cod]
